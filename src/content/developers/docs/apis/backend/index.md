@@ -20,6 +20,9 @@ These libraries abstract away much of the complexity of interacting directly wit
 
 ## Available libraries {#available-libraries}
 
+**The RPC Farm - ** **_Free Ethereum API Access._**
+- [therpc.farm](https://therpc.farm/)
+
 **Alchemy -** **_Ethereum Development Platform._**
 
 - [alchemy.com](https://www.alchemy.com/)
